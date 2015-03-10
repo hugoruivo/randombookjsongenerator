@@ -16,6 +16,7 @@ You will control the number of "Books" generated per file.
 It will generate 10 files, and automatically download the them.
 
 ##Book JSON Format
+```html
 {
 	"name":"Book Title",
 	"author":
@@ -26,6 +27,7 @@ It will generate 10 files, and automatically download the them.
 	"genre":"Book genre",
 	"publish_date":"Date in format: yyyy-mm-dd"
 }
+```
 
 ##Licence
 This project is licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License) so feel free to hack away :)
